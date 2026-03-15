@@ -3,5 +3,3 @@ PocLand is an open-source platform that centralizes Proof-of-Concepts (PoCs) for
 Its goal is to make it easier to discover and access PoCs for newly disclosed vulnerabilities in one place. 
 
 The project is community-driven and open to contributions.
-
-- https://pocland.com/
